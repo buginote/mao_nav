@@ -256,7 +256,36 @@ export const mockData = {
       "icon": "🎵",
       "name": "音乐",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1793771638677",
+          "name": "QQ音乐",
+          "url": "https://y.qq.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771664944",
+          "name": "网易云音乐",
+          "url": "https://music.163.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771692898",
+          "name": "种子音乐",
+          "url": "https://zz123.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771742335",
+          "name": "蜻蜓FM",
+          "url": "https://www.qtfm.cn/categories/523/0/1",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
