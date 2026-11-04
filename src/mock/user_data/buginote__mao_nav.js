@@ -250,6 +250,13 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1793771604224",
+      "icon": "🎵",
+      "name": "音乐",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
