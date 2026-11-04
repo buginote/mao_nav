@@ -220,7 +220,36 @@ export const mockData = {
       "icon": "💻",
       "name": "影视",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1793771476695",
+          "name": "腾讯视频",
+          "url": "http://v.qq.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771500767",
+          "name": "优酷",
+          "url": "http://www.youku.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771541552",
+          "name": "爱奇艺",
+          "url": "https://www.iqiyi.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1793771581455",
+          "name": "哔哩吡哩",
+          "url": "https://www.bilibili.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
