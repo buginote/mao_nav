@@ -271,7 +271,22 @@ export const mockData = {
       "icon": "🎨",
       "name": "图片工具",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1794140048867",
+          "name": "ILOVEIMG",
+          "url": "https://www.iloveimg.com/zh-cn",
+          "description": "去背景、调大小、转格式、加水印",
+          "icon": "https://www.faviconextractor.com/favicon/www.iloveimg.com"
+        },
+        {
+          "id": "site-1794140085245",
+          "name": "Online Image Tool",
+          "url": "https://www.onlineimagetool.com/zh/",
+          "description": "压缩、旋转、调大小、转格式",
+          "icon": "https://www.faviconextractor.com/favicon/www.onlineimagetool.com"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
