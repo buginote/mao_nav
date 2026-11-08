@@ -1,13 +1,6 @@
 export const mockData = {
   "categories": [
     {
-      "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
-      "order": 0,
-      "sites": []
-    },
-    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
