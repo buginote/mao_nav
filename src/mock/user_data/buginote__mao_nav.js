@@ -466,7 +466,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
+  "title": "依依🐱",
   "search": "bing",
   "icp": ""
 }
