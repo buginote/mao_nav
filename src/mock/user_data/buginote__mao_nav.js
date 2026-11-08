@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1794139910032",
+          "name": "优品PPT",
+          "url": "https://www.ypppt.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -212,6 +219,57 @@ export const mockData = {
       "id": "category-1794139677906",
       "icon": "📚",
       "name": "翻译",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794139708668",
+          "name": "金山词霸",
+          "url": "https://www.iciba.com/translate",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794139735354",
+          "name": "沉浸式翻译",
+          "url": "https://app.immersivetranslate.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794139772093",
+          "name": "有道词典",
+          "url": "https://www.youdao.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1794139827973",
+      "icon": "📊",
+      "name": "文件模板",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794139944515",
+          "name": "第1PPT",
+          "url": "https://www.1ppt.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794139987915",
+          "name": "OfficePlus",
+          "url": "https://www.officeplus.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.officeplus.cn"
+        }
+      ]
+    },
+    {
+      "id": "category-1794140011952",
+      "icon": "🎨",
+      "name": "图片工具",
       "order": 0,
       "sites": []
     }
