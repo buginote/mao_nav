@@ -351,6 +351,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.bensound.com"
         }
       ]
+    },
+    {
+      "id": "category-1794140567573",
+      "icon": "👥",
+      "name": "平面素材",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
