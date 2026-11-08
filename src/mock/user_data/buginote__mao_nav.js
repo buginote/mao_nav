@@ -306,6 +306,13 @@ export const mockData = {
           "url": "http://goqr.me/",
           "description": "生成二维码",
           "icon": "https://www.faviconextractor.com/favicon/goqr.me"
+        },
+        {
+          "id": "site-1794140278295",
+          "name": "稿定抠图",
+          "url": "https://www.gaoding.com",
+          "description": "免费在线抠图软件,快速换背景",
+          "icon": "https://www.faviconextractor.com/favicon/www.gaoding.com"
         }
       ]
     }
