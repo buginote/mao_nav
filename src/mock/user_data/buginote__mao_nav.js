@@ -90,6 +90,20 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1794139459543",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务",
+          "icon": ""
+        },
+        {
+          "id": "site-1794139502766",
+          "name": "豆包",
+          "url": "https://www.doubao.com/chat/",
+          "description": "AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具",
+          "icon": ""
         }
       ]
     },
@@ -188,7 +202,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "依依才能看🐱",
+  "title": "猫猫导航🐱",
   "search": "bing",
   "icp": ""
 }
