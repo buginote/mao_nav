@@ -299,6 +299,13 @@ export const mockData = {
           "url": "https://web.baimiaoapp.com/",
           "description": "图片转文字",
           "icon": "https://www.faviconextractor.com/favicon/web.baimiaoapp.com"
+        },
+        {
+          "id": "site-1794140225756",
+          "name": "goqr",
+          "url": "http://goqr.me/",
+          "description": "生成二维码",
+          "icon": "https://www.faviconextractor.com/favicon/goqr.me"
         }
       ]
     }
