@@ -53,7 +53,7 @@ export const mockData = {
           "name": "优品PPT",
           "url": "https://www.ypppt.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.ypppt.com"
         }
       ]
     },
@@ -110,7 +110,7 @@ export const mockData = {
           "name": "豆包",
           "url": "https://www.doubao.com/",
           "description": "AI 聊天智能对话问答助手，写作文案翻译情感陪伴编程全能工具",
-          "icon": ""
+          "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon-doubao.png"
         },
         {
           "id": "site-1794139650850",
@@ -226,21 +226,21 @@ export const mockData = {
           "name": "金山词霸",
           "url": "https://www.iciba.com/translate",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.iciba.com"
         },
         {
           "id": "site-1794139735354",
           "name": "沉浸式翻译",
           "url": "https://app.immersivetranslate.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/app.immersivetranslate.com"
         },
         {
           "id": "site-1794139772093",
           "name": "有道词典",
           "url": "https://www.youdao.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.youdao.com"
         }
       ]
     },
@@ -255,7 +255,7 @@ export const mockData = {
           "name": "第1PPT",
           "url": "https://www.1ppt.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.1ppt.com"
         },
         {
           "id": "site-1794139987915",
@@ -339,9 +339,9 @@ export const mockData = {
         {
           "id": "site-1794140456730",
           "name": "蜻蜓FM",
-          "url": "https://www.qtfm.cn/categories/523/0/1",
+          "url": "https://www.qtfm.cn",
           "description": "",
-          "icon": ""
+          "icon": "https://www.qtfm.cn/favicon.ico"
         },
         {
           "id": "site-1794140501416",
