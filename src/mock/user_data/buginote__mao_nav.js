@@ -420,6 +420,48 @@ export const mockData = {
           "url": "http://www.ooopic.com/",
           "description": "我图网，提供图片素材及模板下载，专注正版设计作品交易",
           "icon": "https://www.faviconextractor.com/favicon/www.ooopic.com"
+        },
+        {
+          "id": "site-1794141041034",
+          "name": "90 设计",
+          "url": "http://90sheji.com/",
+          "description": "电商设计（淘宝美工）千图免费淘宝素材库",
+          "icon": "https://www.faviconextractor.com/favicon/90sheji.com"
+        },
+        {
+          "id": "site-1794141076982",
+          "name": "昵图网",
+          "url": "http://www.nipic.com/",
+          "description": "原创素材共享平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.nipic.com"
+        },
+        {
+          "id": "site-1794141172096",
+          "name": "懒人图库",
+          "url": "http://www.lanrentuku.com/",
+          "description": "懒人图库专注于提供网页素材下载",
+          "icon": "https://www.faviconextractor.com/favicon/www.lanrentuku.com"
+        },
+        {
+          "id": "site-1794141198544",
+          "name": "素材搜索",
+          "url": "http://so.ui001.com/",
+          "description": "设计素材搜索聚合",
+          "icon": "https://www.faviconextractor.com/favicon/so.ui001.com"
+        },
+        {
+          "id": "site-1794141237092",
+          "name": "PS 饭团网",
+          "url": "http://psefan.com/",
+          "description": "不一样的设计素材库！让自己的设计与众不同",
+          "icon": "https://www.faviconextractor.com/favicon/psefan.com"
+        },
+        {
+          "id": "site-1794141270211",
+          "name": "素材中国",
+          "url": "http://www.sccnn.com/",
+          "description": "免费素材共享平台",
+          "icon": "https://www.faviconextractor.com/favicon/www.sccnn.com"
         }
       ]
     }
