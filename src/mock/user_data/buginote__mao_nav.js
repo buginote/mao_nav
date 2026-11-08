@@ -47,13 +47,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1794139910032",
-          "name": "优品PPT",
-          "url": "https://www.ypppt.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/www.ypppt.com"
         }
       ]
     },
@@ -263,6 +256,13 @@ export const mockData = {
           "url": "https://www.officeplus.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.officeplus.cn"
+        },
+        {
+          "id": "site-1794139910032",
+          "name": "优品PPT",
+          "url": "https://www.ypppt.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.ypppt.com"
         }
       ]
     },
@@ -466,7 +466,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "依依🐱",
+  "title": "猫猫导航🐱",
   "search": "bing",
   "icp": ""
 }
