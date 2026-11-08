@@ -315,6 +315,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.gaoding.com"
         }
       ]
+    },
+    {
+      "id": "category-1794140335147",
+      "icon": "🎵",
+      "name": "音乐",
+      "order": 8,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱",
