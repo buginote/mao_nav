@@ -321,7 +321,36 @@ export const mockData = {
       "icon": "🎵",
       "name": "音乐",
       "order": 8,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1794140384421",
+          "name": "QQ音乐",
+          "url": "https://y.qq.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/y.qq.com"
+        },
+        {
+          "id": "site-1794140408029",
+          "name": "网易云音乐",
+          "url": "https://music.163.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/music.163.com"
+        },
+        {
+          "id": "site-1794140456730",
+          "name": "蜻蜓FM",
+          "url": "https://www.qtfm.cn/categories/523/0/1",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794140501416",
+          "name": "背景音乐",
+          "url": "https://www.bensound.com/free-music-for-videos",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.bensound.com"
+        }
+      ]
     }
   ],
   "title": "猫猫导航🐱",
