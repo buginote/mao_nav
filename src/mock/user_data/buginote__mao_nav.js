@@ -285,6 +285,20 @@ export const mockData = {
           "url": "https://www.onlineimagetool.com/zh/",
           "description": "压缩、旋转、调大小、转格式",
           "icon": "https://www.faviconextractor.com/favicon/www.onlineimagetool.com"
+        },
+        {
+          "id": "site-1794140130346",
+          "name": "PearOCR",
+          "url": "https://pearocr.com/",
+          "description": "图片转文字",
+          "icon": "https://www.faviconextractor.com/favicon/pearocr.com"
+        },
+        {
+          "id": "site-1794140185098",
+          "name": "白描",
+          "url": "https://web.baimiaoapp.com/",
+          "description": "图片转文字",
+          "icon": "https://www.faviconextractor.com/favicon/web.baimiaoapp.com"
         }
       ]
     }
