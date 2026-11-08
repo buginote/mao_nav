@@ -70,6 +70,13 @@ export const mockData = {
           "url": "https://www.youdao.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.youdao.com"
+        },
+        {
+          "id": "site-1794142407118",
+          "name": "有道翻译",
+          "url": "http://fanyi.youdao.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/fanyi.youdao.com"
         }
       ]
     },
