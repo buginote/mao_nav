@@ -5,15 +5,7 @@ export const mockData = {
       "name": "我的常用",
       "icon": "💥",
       "order": 0,
-      "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "ai-tools",
@@ -21,13 +13,6 @@ export const mockData = {
       "icon": "🤖",
       "order": 1,
       "sites": [
-        {
-          "id": "site-1794139459543",
-          "name": "Deepseek",
-          "url": "https://chat.deepseek.com/",
-          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务",
-          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
-        },
         {
           "id": "site-1794139502766",
           "name": "豆包",
@@ -41,6 +26,13 @@ export const mockData = {
           "url": "https://kimi.moonshot.cn/",
           "description": "超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪",
           "icon": "https://www.faviconextractor.com/favicon/kimi.moonshot.cn"
+        },
+        {
+          "id": "site-1794139459543",
+          "name": "Deepseek",
+          "url": "https://chat.deepseek.com/",
+          "description": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
         }
       ]
     },
