@@ -453,7 +453,7 @@ export const mockData = {
           "id": "site-1794272459370",
           "name": "Sumatra PDF",
           "url": "https://www.sumatrapdfreader.org/free-pdf-reader",
-          "description": "该软件查看各种电子文档(PDF, EPUB, MOBI, CBZ, CBR, FB2, CHM, XPS, DjVu)以及图片。不下载在线使用访问https://web.sumatrapdfreader.org/",
+          "description": "该软件查看各种电子文档(PDF, EPUB, MOBI, CBZ, CBR, FB2, CHM, XPS, DjVu)以及图片。不下载在线使用访问 https://web.sumatrapdfreader.org/",
           "icon": "https://www.faviconextractor.com/favicon/www.sumatrapdfreader.org"
         },
         {
@@ -462,6 +462,20 @@ export const mockData = {
           "url": "https://www.ghxi.com/pdfshaper.html",
           "description": "批量提取PDF中的文本、图像，PDF转换为Word、PDF转换为图像，提取页面作为单独的PDF文件，加密和解密PDF",
           "icon": "https://www.faviconextractor.com/favicon/www.ghxi.com"
+        },
+        {
+          "id": "site-1794274819175",
+          "name": "万兴HiPDF-下载或在线使用",
+          "url": "https://www.hipdf.cn/",
+          "description": "对PDF转换、分割、裁剪、OCR、签名、压缩",
+          "icon": "https://www.faviconextractor.com/favicon/www.hipdf.cn"
+        },
+        {
+          "id": "site-1794276987382",
+          "name": "Foxit PDF编辑",
+          "url": "https://cfwangpan.1024.me/?p=warez%2F",
+          "description": "添加删除pdf中的文字图片",
+          "icon": "https://www.faviconextractor.com/favicon/cfwangpan.1024.me"
         }
       ]
     }
