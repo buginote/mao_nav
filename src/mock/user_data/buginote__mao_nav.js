@@ -153,7 +153,7 @@ export const mockData = {
     },
     {
       "id": "category-1794139827973",
-      "icon": "📊",
+      "icon": "📁",
       "name": "文件模板",
       "order": 4,
       "sites": [
@@ -183,7 +183,7 @@ export const mockData = {
     {
       "id": "category-1794140335147",
       "icon": "🎵",
-      "name": "音乐",
+      "name": "在线音乐",
       "order": 5,
       "sites": [
         {
@@ -218,7 +218,7 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
+      "name": "影视娱乐",
       "icon": "🎮",
       "order": 6,
       "sites": [
@@ -476,6 +476,43 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1794277615149",
+      "icon": "📚",
+      "name": "读书",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794277685748",
+          "name": "大书架",
+          "url": "https://www.dalanmei.com/",
+          "description": "电子书下载",
+          "icon": "https://www.faviconextractor.com/favicon/www.dalanmei.com"
+        },
+        {
+          "id": "site-1794277806778",
+          "name": "和图书",
+          "url": "https://www.hetushu.com/",
+          "description": "网文小说",
+          "icon": "https://www.faviconextractor.com/favicon/www.hetushu.com"
+        }
+      ]
+    },
+    {
+      "id": "category-1794278079912",
+      "icon": "📊",
+      "name": "财经投资",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794278149039",
+          "name": "慧博投研资讯",
+          "url": "https://www.hibor.com.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.hibor.com.cn"
         }
       ]
     }
