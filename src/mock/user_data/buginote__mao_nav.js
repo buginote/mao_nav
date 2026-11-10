@@ -110,7 +110,7 @@ export const mockData = {
           "id": "site-1794140278295",
           "name": "稿定抠图",
           "url": "https://www.gaoding.com",
-          "description": "免费在线抠图软件,快速换背景",
+          "description": "免费在线抠图，换背景",
           "icon": "https://www.faviconextractor.com/favicon/www.gaoding.com"
         }
       ]
@@ -132,7 +132,7 @@ export const mockData = {
           "id": "site-1794139735354",
           "name": "沉浸式翻译",
           "url": "https://immersivetranslate.com/zh-Hans/",
-          "description": "安装浏览器扩展后，可原文/中文对照",
+          "description": "网页原文/中文对照",
           "icon": "https://www.faviconextractor.com/favicon/app.immersivetranslate.com"
         },
         {
