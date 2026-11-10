@@ -125,28 +125,28 @@ export const mockData = {
           "id": "site-1794139708668",
           "name": "金山词霸",
           "url": "https://www.iciba.com/translate",
-          "description": "",
+          "description": "查词",
           "icon": "https://www.faviconextractor.com/favicon/www.iciba.com"
         },
         {
           "id": "site-1794139735354",
           "name": "沉浸式翻译",
-          "url": "https://app.immersivetranslate.com/",
-          "description": "",
+          "url": "https://immersivetranslate.com/zh-Hans/",
+          "description": "安装浏览器扩展后，可原文/中文对照",
           "icon": "https://www.faviconextractor.com/favicon/app.immersivetranslate.com"
         },
         {
           "id": "site-1794139772093",
           "name": "有道词典",
           "url": "https://www.youdao.com/",
-          "description": "",
+          "description": "查词",
           "icon": "https://www.faviconextractor.com/favicon/www.youdao.com"
         },
         {
           "id": "site-1794142407118",
           "name": "有道翻译",
           "url": "http://fanyi.youdao.com/",
-          "description": "",
+          "description": "翻译、润色",
           "icon": "https://www.faviconextractor.com/favicon/fanyi.youdao.com"
         }
       ]
