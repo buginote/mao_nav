@@ -31,7 +31,7 @@ export const mockData = {
     },
     {
       "id": "category-1794139677906",
-      "icon": "📚",
+      "icon": "🌐",
       "name": "翻译",
       "order": 2,
       "sites": [
@@ -440,6 +440,28 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1794272213257",
+      "icon": "🔧",
+      "name": "PDF工具",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1794272459370",
+          "name": "Sumatra PDF",
+          "url": "https://www.sumatrapdfreader.org/free-pdf-reader",
+          "description": "该软件查看各种电子文档(PDF, EPUB, MOBI, CBZ, CBR, FB2, CHM, XPS, DjVu)以及图片。不下载在线使用访问https://web.sumatrapdfreader.org/",
+          "icon": "https://www.faviconextractor.com/favicon/www.sumatrapdfreader.org"
+        },
+        {
+          "id": "site-1794274555120",
+          "name": "PDF Shaper-需下载软件",
+          "url": "https://www.ghxi.com/pdfshaper.html",
+          "description": "批量提取PDF中的文本、图像，PDF转换为Word、PDF转换为图像，提取页面作为单独的PDF文件，加密和解密PDF",
+          "icon": "https://www.faviconextractor.com/favicon/www.ghxi.com"
         }
       ]
     }
