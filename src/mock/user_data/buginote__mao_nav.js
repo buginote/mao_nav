@@ -59,8 +59,8 @@ export const mockData = {
         {
           "id": "site-1794276987382",
           "name": "Foxit PDF编辑-下载软件",
-          "url": "https://cfwangpan.1024.me/?p=warez%2F",
-          "description": "添加删除pdf中的文字图片，程序很小",
+          "url": "https://wwbbq.lanzoue.com/irrtp4fq1gxg",
+          "description": "密码:78p9，增删文字图片",
           "icon": "https://www.faviconextractor.com/favicon/cfwangpan.1024.me"
         }
       ]
