@@ -50,18 +50,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/www.ghxi.com"
         },
         {
-          "id": "site-1794274819175",
-          "name": "万兴HiPDF-下载或在线使用",
-          "url": "https://www.hipdf.cn/",
-          "description": "PDF转换、分割、裁剪、OCR、签名、压缩",
-          "icon": "https://www.faviconextractor.com/favicon/www.hipdf.cn"
-        },
-        {
           "id": "site-1794276987382",
           "name": "Foxit PDF编辑-下载软件",
           "url": "https://wwbbq.lanzoue.com/irrtp4fq1gxg",
           "description": "密码:78p9，增删文字图片",
           "icon": "https://www.faviconextractor.com/favicon/cfwangpan.1024.me"
+        },
+        {
+          "id": "site-1794813759539",
+          "name": "PdfCraft",
+          "url": "https://getartcraft.com/apps/pdfcraft",
+          "description": "全能pdf工具，不注册不联网",
+          "icon": "https://www.faviconextractor.com/favicon/getartcraft.com"
         }
       ]
     },
